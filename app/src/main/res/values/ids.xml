@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id_img" type="id" />
+    <item name="id_name" type="id" />
+    <item name="rvNextMatch" type="id" />
+    <item name="pbNextMatch" type="id" />
+</resources>
