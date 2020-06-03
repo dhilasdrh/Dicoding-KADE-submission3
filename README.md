@@ -10,7 +10,7 @@ Some features that must be added to the application:
   * Can delete matches from the favorite database.
   * Showing list of favorite matches.
   
-- **Maintain the previous submission feature**
+- **Maintain the previous submission features**
 
 ### Notes
 * You are free to be creative in making this application. 
